@@ -1,0 +1,16 @@
+entity_id,name,type,aliases
+E001,Crimson Falcon,actor,APT-Falcon|Falcon Group
+E002,Silent Mantis,actor,Mantis
+E003,Blue Harbor,actor,BH-Crew
+E004,NightLoader,malware,Night Loader
+E005,RustBeacon,malware,Rust Beacon
+E006,ClipSwap,malware,
+E007,user_k4rma,persona,k4rma
+E008,d3adpool,persona,
+E009,n0va_x,persona,nova-x
+E010,Meridian Bank,organization,Meridian
+E011,Axis Logistics,organization,Axis
+E012,Helix Health,organization,Helix
+E013,Orion Telecom,organization,Orion
+E014,Pioneer University,organization,Pioneer Univ
+E015,Night-Loader,malware,

@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.24
+networkx>=3.0
+plotly>=5.24
+# optional: better entity extraction (see README)
+# spacy>=3.7
